@@ -1,0 +1,1 @@
+scoreboard objectives add non_player dummy
